@@ -1,3 +1,5 @@
-Hello, everyone!
+## Savya P | Technical Writing Portfolio
 
-My name is Savya P. I am currently in my final year of Bachelor of Technology specialising in Computer Science and Engineering. I have done internships in NIT, Calicut and IIT, Madras in my college journey so far. Through these internships I was able to hone my ability to write technical documents, explaining complex technical terms in easy words, write project reports and project README, and progress reports. I have also gained documentation experience by being part of the documentation team of two clubs in college. I was responsible for creating content for event promotions, and scripts for event. I was also in charge of documenting events that my club put up during technical fests. This is my technical-writing-portfolio.
+## About Me
+
+I am a final year student pursuing my undergraduate degree in Bachelor of Technololgy Computer Science and Engineering. I create clear, user friendly documentation which helps in bridging the gap between complex technical concepts and the average non technical user. With my internship experiences in NIT Calicut and IIT Madras, I can create clear and concise project reports, prject progress reports, project README, and SOPs.
